@@ -1,5 +1,5 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
-<p>Welcome to my page! </br> I'm Gustavo, React developer from [argentina](https://user-images.githubusercontent.com/68298456/94981419-9efa1980-0508-11eb-92cc-a2edf1aea8a8.png)
+<p>Welcome to my page! </br> I'm Gustavo, React developer from ![argentina](https://user-images.githubusercontent.com/68298456/94981419-9efa1980-0508-11eb-92cc-a2edf1aea8a8.png)
  <b>Buenos Aires, Argentina</b>.
 <h3>Things I code with</h3>
 <!--
