@@ -1,5 +1,6 @@
-### Hi there 👋
-
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
+<p>Welcome to my page! </br> I'm Gustavo, React developer from <img src="https://www.flaticon.es/icono-gratis/argentina_197573" width="13"/> <b>Buenos Aires, Argentina</b>.
+<h3>Things I code with</h3>
 <!--
 **gustavosprx/gustavosprx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
