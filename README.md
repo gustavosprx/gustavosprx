@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
 <p>Welcome to my page! </br> I'm Gustavo, React developer from 🇦🇷 <b>Buenos Aires, Argentina</b>.
 <h3>Things I code with</h3>
-<p> <img alt="React" src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react" /> <img alt="JavaScripts" src="https://img.shields.io/badge/-Javascripts-040d04?style=flat-square&logo=javascript" /><img alt ="node" src='https://img.shields.io/badge/Node-JS-green'> <img alt='Html5' src='https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5'> <img alt='Linux' src='https://img.shields.io/badge/-Linux-black?style=flat&logo=linux&logoColor=FCC624'>
+<p> <img alt="React" src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react" /> <img alt="JavaScripts" src="https://img.shields.io/badge/-Javascripts-040d04?style=flat-square&logo=javascript" /> <img alt ="node" src='https://img.shields.io/badge/Node-JS-green'> <img alt="express" src='https://img.shields.io/badge/-Express-lightgrey'> <img alt='Html5' src='https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5'> <img alt='Linux' src='https://img.shields.io/badge/-Linux-black?style=flat&logo=linux&logoColor=FCC624'>
 
  
 <h3>Where to find me:</h3>
