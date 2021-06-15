@@ -1,11 +1,11 @@
-<h1> Welcome to my page! :]</h1>
-<p></br> I'm Gustavo, Web developer from <b>Buenos Aires, Argentina</b>.
+
+<h2></br> I'm Gustavo, Web developer from <b>Buenos Aires, Argentina</b>.</h2>
 <h3>Things I code with</h3>
-<p> <img alt="React" src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react" /> <img alt="JavaScript" src="https://img.shields.io/badge/-Javascript-040d04?style=flat-square&logo=javascript" /> <img alt ="node" src='https://img.shields.io/badge/Node-JS-green'> <img alt="express" src='https://img.shields.io/badge/-Express-lightgrey'> <img alt='Html5' src='https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5'> <img alt='Linux' src='https://img.shields.io/badge/-Linux-black?style=flat&logo=linux&logoColor=FCC624'>
+<p> <img alt="React" src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react" /> <img alt="JavaScript" src="https://img.shields.io/badge/-Javascript-040d04?style=flat-square&logo=javascript" /> <img alt ="node" src='https://img.shields.io/badge/Node-JS-green'> <img alt="express" src='https://img.shields.io/badge/-Express-lightgrey'>  <img alt='Linux' src='https://img.shields.io/badge/-Linux-black?style=flat&logo=linux&logoColor=FCC624'>
 
  
 <h3>Where to find me:</h3>
-<p><a href="https://github.com/gustavosprx" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/_rgustavo" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/gustavo-romero-sprx/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://www.facebook.com/gusssti/" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/facebook-%230077B5.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>
+<p><a href="https://github.com/gustavosprx" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/_rgustavo" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/gustavo-romero-sprx/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   
 
 <!--
