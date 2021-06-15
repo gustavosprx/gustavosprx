@@ -1,4 +1,4 @@
-
+<h1>👨‍💻</h1>
 <h2></br> I'm Gustavo, Web developer from <b>Buenos Aires, Argentina</b>.</h2>
 <h3>Things I code with</h3>
 <p> <img alt="React" src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react" /> <img alt="JavaScript" src="https://img.shields.io/badge/-Javascript-040d04?style=flat-square&logo=javascript" /> <img alt ="node" src='https://img.shields.io/badge/Node-JS-green'> <img alt="express" src='https://img.shields.io/badge/-Express-lightgrey'>  <img alt='Linux' src='https://img.shields.io/badge/-Linux-black?style=flat&logo=linux&logoColor=FCC624'>
